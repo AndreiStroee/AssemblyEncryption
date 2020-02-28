@@ -1,0 +1,6 @@
+﻿  FoCA Encryption Original with ASM.cpp
+c:\users\andre\downloads\foca encryption assignment\foca encryption original with asm.cpp(161): warning C4409: illegal instruction size
+c:\users\andre\downloads\foca encryption assignment\foca encryption original with asm.cpp(162): warning C4409: illegal instruction size
+c:\users\andre\downloads\foca encryption assignment\foca encryption original with asm.cpp(182): warning C4731: 'decrypt_chars': frame pointer register 'ebp' modified by inline assembly code
+c:\users\andre\downloads\foca encryption assignment\foca encryption original with asm.cpp(205): warning C4731: 'decrypt_chars': frame pointer register 'ebp' modified by inline assembly code
+  FoCA Encryption Assignment.vcxproj -> C:\Users\andre\Downloads\FoCA Encryption Assignment\Debug\FoCA Encryption Assignment.exe

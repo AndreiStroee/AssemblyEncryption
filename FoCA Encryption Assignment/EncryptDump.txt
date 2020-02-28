@@ -1,0 +1,2113 @@
+
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 12/02/2019  Time: 11:14:56
+
+Original string =  ANSE	Hex = 41  4e  53  45  
+
+Encrypted string = Ø\Áx	Hex = af  5c  e7  78  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 12/02/2019  Time: 11:17:08
+
+Original string =  ANSE	Hex = 41  4e  53  45  
+
+Encrypted string = Ø\Áx	Hex = af  5c  e7  78  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 12/02/2019  Time: 11:26:04
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯#‘	Hex = 13  f8  23  d4  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 23/02/2019  Time: 15:09:24
+
+Original string =  HHan	Hex = 48  48  08  08  61  6e  
+
+Encrypted string = ìDíE/‹	Hex = 93  44  92  45  2f  dc  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 23/02/2019  Time: 16:54:49
+
+Original string =  beeeen	Hex = 62  65  65  65  65  6e  
+
+Encrypted string = +¯?¯?‹	Hex = 2b  f8  3f  f8  3f  dc  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/02/2019  Time: 16:48:22
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = /‹g¯	Hex = 2f  dc  67  f8  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/02/2019  Time: 17:58:05
+
+Original string =  Hello	Hex = 48  65  6c  6c  6f  
+
+Encrypted string = ìCC7	Hex = 93  1f  43  43  37  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/02/2019  Time: 18:00:10
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/02/2019  Time: 18:22:58
+
+Original string =  nobody	Hex = 6e  6f  62  6f  64  79  
+
+Encrypted string = ;7Î7#O	Hex = 3b  37  eb  37  23  4f  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 01/03/2019  Time: 23:20:10
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:13:05
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:13:47
+
+Original string =  soon!	Hex = 73  6f  6f  6e  21  
+
+Encrypted string = '77;Ó	Hex = 27  37  37  3b  ee  
+
+Decrypted string = soon!	Hex = 73  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:31:25
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = 5Fˆ!	Hex = 35  46  16  f6  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:31:57
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = 5Fˆ	Hex = 35  46  16  f6  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:42:26
+
+Original string =  juice	Hex = 6a  75  69  63  65  
+
+Encrypted string = _Á	Hex = b  5f  f  e7  1f  
+
+Decrypted string = Ü˜∂ˆ	Hex = 86  f7  b6  15  f6  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:42:58
+
+Original string =  juice	Hex = 6a  75  69  63  65  
+
+Encrypted string = _Á	Hex = b  5f  f  e7  1f  
+
+Decrypted string = ¶÷5	Hex = a6  17  d6  35  16  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:43:22
+
+Original string =  juice	Hex = 6a  75  69  63  65  
+
+Encrypted string = _Á	Hex = b  5f  f  e7  1f  
+
+Decrypted string = &-)	Hex = 26  2d  29  f  1d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:44:34
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = Srss	Hex = 53  72  73  73  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:44:47
+
+Original string =  juice	Hex = 6a  75  69  63  65  
+
+Encrypted string = _Á	Hex = b  5f  f  e7  1f  
+
+Decrypted string = zs{Ss	Hex = 7a  73  7b  53  73  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:44:56
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = Srss	Hex = 53  72  73  73  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:45:18
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = zszzs	Hex = 7a  73  7a  7a  73  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 16:52:19
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = zszzs	Hex = 7a  73  7a  7a  73  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:01:36
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = h]ttc	Hex = 68  5d  74  74  63  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:08:18
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = Ñ±Ö··	Hex = 84  b1  85  e1  e1  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:08:30
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = åUôç	Hex = 8c  55  99  8d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:08:39
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = ê±Ö··	Hex = 90  b1  85  e1  e1  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:09:26
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = h]ttc	Hex = 68  5d  74  74  63  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:20:40
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = XXXXX	Hex = 58  58  58  58  58  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:20:49
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = XXXX	Hex = 58  58  58  58  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:21:22
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = XXXXX	Hex = 58  58  58  58  58  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:23:06
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = """""	Hex = 22  22  22  22  22  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:25:01
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = XXXXX	Hex = 58  58  58  58  58  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:48:22
+
+Original string =  floop	Hex = 66  6c  6f  6f  70  
+
+Encrypted string = C773	Hex = 1b  43  37  37  33  
+
+Decrypted string = XXXXX	Hex = 58  58  58  58  58  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:48:39
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = XXXXX	Hex = 58  58  58  58  58  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 17:50:47
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = XXXXX	Hex = 58  58  58  58  58  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 18:16:47
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = XXXXX	Hex = 58  58  58  58  58  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 18:20:21
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = º†T†T	Hex = bc  a0  54  a0  54  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 18:20:44
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = Ïlhlh	Hex = ec  6c  68  6c  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 18:29:02
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = ‘ÍÍ	Hex = d4  12  ea  12  ea  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/03/2019  Time: 18:58:16
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = ddddd	Hex = 64  64  64  64  64  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:19:52
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = ifmmp	Hex = 69  66  6d  6d  70  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:21:34
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = ifmmp	Hex = 69  66  6d  6d  70  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:21:42
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = botf	Hex = 62  6f  74  66  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:22:49
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = cpeg	Hex = 63  70  65  67  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:23:08
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:23:22
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = he||o	Hex = 68  65  7c  7c  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:23:40
+
+Original string =  Mael	Hex = 4d  61  65  6c  08  08  
+
+Encrypted string = øÔCíí	Hex = bf  ef  1f  43  92  92  
+
+Decrypted string = Mae|	Hex = 4d  61  65  7c  8  8  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:23:47
+
+Original string =  mark	Hex = 6d  61  72  6b  
+
+Encrypted string = ?Ô+	Hex = 3f  ef  2b  7  
+
+Decrypted string = mark	Hex = 6d  61  72  6b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:23:57
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = he||o	Hex = 68  65  7c  7c  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:24:25
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = `mrt	Hex = 60  6d  72  74  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:24:37
+
+Original string =  water	Hex = 77  61  74  65  72  
+
+Encrypted string = WÔc+	Hex = 57  ef  63  1f  2b  
+
+Decrypted string = waÑer	Hex = 77  61  84  65  72  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:24:53
+
+Original string =  table	Hex = 74  61  62  6c  65  
+
+Encrypted string = cÔÎC	Hex = 63  ef  eb  43  1f  
+
+Decrypted string = Ñab|e	Hex = 84  61  62  7c  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:25:07
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:25:19
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = he||o	Hex = 68  65  7c  7c  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:25:44
+
+Original string =  anser	Hex = 61  6e  73  65  72  
+
+Encrypted string = Ô;'+	Hex = ef  3b  27  1f  2b  
+
+Decrypted string = anser	Hex = 61  6e  73  65  72  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:25:56
+
+Original string =  abcdef	Hex = 61  62  63  64  65  66  
+
+Encrypted string = ÔÎÁ#	Hex = ef  eb  e7  23  1f  1b  
+
+Decrypted string = abctef	Hex = 61  62  63  74  65  66  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:26:30
+
+Original string =  ghijkl	Hex = 67  68  69  6a  6b  6c  
+
+Encrypted string = C	Hex = 17  13  f  b  7  43  
+
+Decrypted string = ghijk|	Hex = 67  68  69  6a  6b  7c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:26:45
+
+Original string =  lmnop	Hex = 6c  6d  6e  6f  70  
+
+Encrypted string = C?;73	Hex = 43  3f  3b  37  33  
+
+Decrypted string = |mnop	Hex = 7c  6d  6e  6f  70  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:26:55
+
+Original string =  qrstuv	Hex = 71  72  73  74  75  76  
+
+Encrypted string = /+'c_[	Hex = 2f  2b  27  63  5f  5b  
+
+Decrypted string = qrsÑuv	Hex = 71  72  73  84  75  76  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:27:04
+
+Original string =  wxyz	Hex = 77  78  79  7a  
+
+Encrypted string = WSOK	Hex = 57  53  4f  4b  
+
+Decrypted string = wxyz	Hex = 77  78  79  7a  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:27:16
+
+Original string =  abcd	Hex = 61  62  63  64  
+
+Encrypted string = ÔÎÁ#	Hex = ef  eb  e7  23  
+
+Decrypted string = abct	Hex = 61  62  63  74  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:27:57
+
+Original string =  hdtl	Hex = 68  08  08  64  74  6c  
+
+Encrypted string = íí#cC	Hex = 13  92  92  23  63  43  
+
+Decrypted string = htÑ|	Hex = 68  8  8  74  84  7c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:28:25
+
+Original string =  ans	Hex = 61  6e  73  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  
+
+Decrypted string = ans	Hex = 61  6e  73  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:28:32
+
+Original string =  dtl	Hex = 64  74  6c  
+
+Encrypted string = #cC	Hex = 23  63  43  
+
+Decrypted string = tÑ|	Hex = 74  84  7c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:30:30
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:30:51
+
+Original string =  ldt	Hex = 6c  64  74  
+
+Encrypted string = C#c	Hex = 43  23  63  
+
+Decrypted string = |tÑ	Hex = 7c  74  84  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:31:47
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:37:47
+
+Original string =  dtl	Hex = 64  74  6c  
+
+Encrypted string = #cC	Hex = 23  63  43  
+
+Decrypted string = tÑ|	Hex = 74  84  7c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:39:27
+
+Original string =  dtl	Hex = 64  74  6c  
+
+Encrypted string = #cC	Hex = 23  63  43  
+
+Decrypted string = fvn	Hex = 66  76  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:39:48
+
+Original string =  ansedt	Hex = 61  6e  73  65  64  74  
+
+Encrypted string = Ô;'#c	Hex = ef  3b  27  1f  23  63  
+
+Decrypted string = ansedt	Hex = 61  6e  73  65  64  74  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:40:09
+
+Original string =  dlt	Hex = 64  6c  74  
+
+Encrypted string = #Cc	Hex = 23  43  63  
+
+Decrypted string = dlt	Hex = 64  6c  74  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:40:17
+
+Original string =  abcded	Hex = 61  62  63  64  65  64  
+
+Encrypted string = ÔÎÁ##	Hex = ef  eb  e7  23  1f  23  
+
+Decrypted string = abcded	Hex = 61  62  63  64  65  64  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:40:28
+
+Original string =  fghijk	Hex = 66  67  68  69  6a  6b  
+
+Encrypted string = 	Hex = 1b  17  13  f  b  7  
+
+Decrypted string = fghijk	Hex = 66  67  68  69  6a  6b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:40:41
+
+Original string =  jklmno	Hex = 6a  6b  6c  6d  6e  6f  
+
+Encrypted string = C?;7	Hex = b  7  43  3f  3b  37  
+
+Decrypted string = jklmno	Hex = 6a  6b  6c  6d  6e  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:40:59
+
+Original string =  pqrstu	Hex = 70  71  72  73  74  75  
+
+Encrypted string = 3/+'c_	Hex = 33  2f  2b  27  63  5f  
+
+Decrypted string = pqrstu	Hex = 70  71  72  73  74  75  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:41:10
+
+Original string =  wvwxy	Hex = 77  08  76  77  78  79  
+
+Encrypted string = Wí[WSO	Hex = 57  92  5b  57  53  4f  
+
+Decrypted string = wvwxy	Hex = 77  8  76  77  78  79  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:45:02
+
+Original string =  ANSE	Hex = 41  4e  53  45  
+
+Encrypted string = nªßü	Hex = 6e  bb  a7  9f  
+
+Decrypted string = ANSE	Hex = 41  4e  53  45  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:45:18
+
+Original string =  dtl	Hex = 64  74  6c  
+
+Encrypted string = #cC	Hex = 23  63  43  
+
+Decrypted string = dtl	Hex = 64  74  6c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:46:42
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:49:03
+
+Original string =  ANSE	Hex = 41  4e  53  45  
+
+Encrypted string = nªßü	Hex = 6e  bb  a7  9f  
+
+Decrypted string = ANSE	Hex = 41  4e  53  45  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:50:43
+
+Original string =  ANSE	Hex = 41  4e  53  45  
+
+Encrypted string = nªßü	Hex = 6e  bb  a7  9f  
+
+Decrypted string = ANSE	Hex = 41  4e  53  45  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/03/2019  Time: 11:50:48
+
+Original string =  dtl	Hex = 64  74  6c  
+
+Encrypted string = #cC	Hex = 23  63  43  
+
+Decrypted string = dtl	Hex = 64  74  6c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:01:54
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = íVJÇ	Hex = 92  56  4a  82  
+
+Decrypted string = 7:<	Hex = 8  37  3a  3c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:02:33
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:02:46
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = hello	Hex = 68  65  6c  6c  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:03:51
+
+Original string =  ben&	Hex = 62  65  6e  08  26  
+
+Encrypted string = Î;í	Hex = eb  1f  3b  92  1a  
+
+Decrypted string = ben&	Hex = 62  65  6e  8  26  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:03:58
+
+Original string =  	Hex = 
+
+Encrypted string = 	Hex = 
+
+Decrypted string = 	Hex = 
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:19:29
+
+Original string =  ans	Hex = 61  6e  73  08  08  08  
+
+Encrypted string = Ô;'ííí	Hex = ef  3b  27  92  92  92  
+
+Decrypted string = ans	Hex = 61  6e  73  8  8  8  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:19:55
+
+Original string =  dlt	Hex = 64  6c  74  
+
+Encrypted string = #Cc	Hex = 23  43  63  
+
+Decrypted string = dlt	Hex = 64  6c  74  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:31:53
+
+Original string =  67yu	Hex = 36  37  79  75  
+
+Encrypted string = ZVO_	Hex = 5a  56  4f  5f  
+
+Decrypted string = 67yu	Hex = 36  37  79  75  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:32:08
+
+Original string =  jun	Hex = 6a  75  6e  
+
+Encrypted string = _;	Hex = b  5f  3b  
+
+Decrypted string = jun	Hex = 6a  75  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:35:20
+
+Original string =  @	Hex = 40  
+
+Encrypted string = r	Hex = 72  
+
+Decrypted string = @	Hex = 40  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:36:36
+
+Original string =  ijlkkk	Hex = 69  6a  6c  6b  6b  6b  
+
+Encrypted string = C	Hex = f  b  43  7  7  7  
+
+Decrypted string = ijlkkk	Hex = 69  6a  6c  6b  6b  6b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:40:38
+
+Original string =  }}pk	Hex = 7d  7d  70  6b  
+
+Encrypted string = 3	Hex = 7f  7f  33  7  
+
+Decrypted string = }}pk	Hex = 7d  7d  70  6b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 13:41:40
+
+Original string =  ++'mh+	Hex = 2b  2b  27  6d  68  2b  
+
+Encrypted string = ?	Hex = 6  6  16  3f  13  6  
+
+Decrypted string = ++'mh+	Hex = 2b  2b  27  6d  68  2b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 14:22:28
+
+Original string =  jn}kl+	Hex = 6a  6e  7d  6b  6c  2b  
+
+Encrypted string = ;C	Hex = b  3b  7f  7  43  6  
+
+Decrypted string = jn}kl+	Hex = 6a  6e  7d  6b  6c  2b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 14:23:39
+
+Original string =  ++++++	Hex = 2b  2b  2b  2b  2b  2b  
+
+Encrypted string = 	Hex = 6  6  6  6  6  6  
+
+Decrypted string = ++++++	Hex = 2b  2b  2b  2b  2b  2b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 14:28:44
+
+Original string =  ++++++	Hex = 2b  2b  2b  2b  2b  2b  
+
+Encrypted string = 	Hex = 6  6  6  6  6  6  
+
+Decrypted string = ++++++	Hex = 2b  2b  2b  2b  2b  2b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 14:29:47
+
+Original string =  ti+	Hex = 74  69  2b  
+
+Encrypted string = c	Hex = 63  f  6  
+
+Decrypted string = ti+	Hex = 74  69  2b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 14:44:30
+
+Original string =  feefo	Hex = 66  65  65  66  6f  
+
+Encrypted string = 7	Hex = 1b  1f  1f  1b  37  
+
+Decrypted string = feefo	Hex = 66  65  65  66  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 14:52:07
+
+Original string =  potdlt	Hex = 70  6f  74  64  6c  74  
+
+Encrypted string = 37c#Cc	Hex = 33  37  63  23  43  63  
+
+Decrypted string = potdlt	Hex = 70  6f  74  64  6c  74  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 14:57:50
+
+Original string =  sdf45	Hex = 73  64  66  34  35  
+
+Encrypted string = '#b^	Hex = 27  23  1b  62  5e  
+
+Decrypted string = sdf45	Hex = 73  64  66  34  35  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 15:18:34
+
+Original string =  kllihi	Hex = 6b  6c  6c  69  68  69  
+
+Encrypted string = CC	Hex = 7  43  43  f  13  f  
+
+Decrypted string = kllihi	Hex = 6b  6c  6c  69  68  69  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 23:29:11
+
+Original string =  ugigui	Hex = 75  67  69  67  75  69  
+
+Encrypted string = __	Hex = 5f  17  f  17  5f  f  
+
+Decrypted string = ugigui	Hex = 75  67  69  67  75  69  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 23:49:19
+
+Original string =  fhfh	Hex = 66  68  66  68  
+
+Encrypted string = 	Hex = 1b  13  1b  13  
+
+Decrypted string = fhfh	Hex = 66  68  66  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 24/03/2019  Time: 23:49:40
+
+Original string =  =-1	Hex = 3d  08  2d  31  
+
+Encrypted string = ~í>.	Hex = 7e  92  3e  2e  
+
+Decrypted string = =-1	Hex = 3d  8  2d  31  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:03:43
+
+Original string =  =1	Hex = 3d  31  
+
+Encrypted string = ~.	Hex = 7e  2e  
+
+Decrypted string = =1	Hex = 3d  31  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:04:06
+
+Original string =  ------	Hex = 2d  2d  2d  2d  2d  2d  
+
+Encrypted string = >>>>>>	Hex = 3e  3e  3e  3e  3e  3e  
+
+Decrypted string = ------	Hex = 2d  2d  2d  2d  2d  2d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:08:20
+
+Original string =  =-----	Hex = 3d  2d  2d  2d  2d  2d  
+
+Encrypted string = ~>>>>>	Hex = 7e  3e  3e  3e  3e  3e  
+
+Decrypted string = =-----	Hex = 3d  2d  2d  2d  2d  2d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:12:21
+
+Original string =  yukkyu	Hex = 79  75  6b  6b  79  75  
+
+Encrypted string = O_O_	Hex = 4f  5f  7  7  4f  5f  
+
+Decrypted string = yukkyu	Hex = 79  75  6b  6b  79  75  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:12:32
+
+Original string =  uityit	Hex = 75  69  74  79  69  74  
+
+Encrypted string = _cOc	Hex = 5f  f  63  4f  f  63  
+
+Decrypted string = uityit	Hex = 75  69  74  79  69  74  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:12:42
+
+Original string =  jgjgjl	Hex = 6a  67  6a  67  6a  6c  
+
+Encrypted string = C	Hex = b  17  b  17  b  43  
+
+Decrypted string = jgjgjl	Hex = 6a  67  6a  67  6a  6c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:13:50
+
+Original string =  wdwwdd	Hex = 77  64  77  77  64  64  
+
+Encrypted string = W#WW##	Hex = 57  23  57  57  23  23  
+
+Decrypted string = wdwwdd	Hex = 77  64  77  77  64  64  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:14:11
+
+Original string =  tgdbii	Hex = 74  67  64  62  69  69  
+
+Encrypted string = c#Î	Hex = 63  17  23  eb  f  f  
+
+Decrypted string = tgdbii	Hex = 74  67  64  62  69  69  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:15:46
+
+Original string =  jhjjjk	Hex = 6a  68  6a  6a  6a  6b  
+
+Encrypted string = 	Hex = b  13  b  b  b  7  
+
+Decrypted string = jhjjjk	Hex = 6a  68  6a  6a  6a  6b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:21:54
+
+Original string =  ------	Hex = 2d  2d  2d  2d  2d  2d  
+
+Encrypted string = >>>>>>	Hex = 3e  3e  3e  3e  3e  3e  
+
+Decrypted string = ------	Hex = 2d  2d  2d  2d  2d  2d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:22:42
+
+Original string =  ------	Hex = 2d  2d  2d  2d  2d  2d  
+
+Encrypted string = >>>>>>	Hex = 3e  3e  3e  3e  3e  3e  
+
+Decrypted string = ------	Hex = 2d  2d  2d  2d  2d  2d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:23:16
+
+Original string =  -	Hex = 2d  
+
+Encrypted string = >	Hex = 3e  
+
+Decrypted string = -	Hex = 2d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:23:32
+
+Original string =  skodw	Hex = 73  6b  6f  64  77  
+
+Encrypted string = '7#W	Hex = 27  7  37  23  57  
+
+Decrypted string = skodw	Hex = 73  6b  6f  64  77  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:24:03
+
+Original string =  0	Hex = 30  
+
+Encrypted string = 2	Hex = 32  
+
+Decrypted string = 0	Hex = 30  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:24:15
+
+Original string =  123456	Hex = 31  32  33  34  35  36  
+
+Encrypted string = .*&b^Z	Hex = 2e  2a  26  62  5e  5a  
+
+Decrypted string = 123456	Hex = 31  32  33  34  35  36  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:29:15
+
+Original string =  p---	Hex = 70  2d  2d  2d  
+
+Encrypted string = 3>>>	Hex = 33  3e  3e  3e  
+
+Decrypted string = p---	Hex = 70  2d  2d  2d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:30:06
+
+Original string =  -hell	Hex = 2d  08  68  65  6c  6c  
+
+Encrypted string = >íCC	Hex = 3e  92  13  1f  43  43  
+
+Decrypted string = -hell	Hex = 2d  8  68  65  6c  6c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 00:31:37
+
+Original string =  -;	Hex = 2d  3b  
+
+Encrypted string = >F	Hex = 3e  46  
+
+Decrypted string = -;	Hex = 2d  3b  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:40:30
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:40:40
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = hello	Hex = 68  65  6c  6c  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:49:59
+
+Original string =  ------	Hex = 2d  2d  2d  2d  2d  2d  
+
+Encrypted string = >>>>>>	Hex = 3e  3e  3e  3e  3e  3e  
+
+Decrypted string = ------	Hex = 2d  2d  2d  2d  2d  2d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:50:33
+
+Original string =  -qnse	Hex = 2d  71  6e  73  65  
+
+Encrypted string = >/;'	Hex = 3e  2f  3b  27  1f  
+
+Decrypted string = -qnse	Hex = 2d  71  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:51:03
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:51:38
+
+Original string =  	Hex = 
+
+Encrypted string = 	Hex = 
+
+Decrypted string = 	Hex = 
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:52:02
+
+Original string =  -	Hex = 2d  
+
+Encrypted string = >	Hex = 3e  
+
+Decrypted string = -	Hex = 2d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:52:33
+
+Original string =  ----an	Hex = 2d  2d  2d  2d  61  6e  
+
+Encrypted string = >>>>Ô;	Hex = 3e  3e  3e  3e  ef  3b  
+
+Decrypted string = ----an	Hex = 2d  2d  2d  2d  61  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:52:41
+
+Original string =  ---ans	Hex = 2d  2d  2d  61  6e  73  
+
+Encrypted string = >>>Ô;'	Hex = 3e  3e  3e  ef  3b  27  
+
+Decrypted string = ---ans	Hex = 2d  2d  2d  61  6e  73  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:53:13
+
+Original string =  ---ans	Hex = 2d  2d  2d  61  6e  73  
+
+Encrypted string = >>>Ô;'	Hex = 3e  3e  3e  ef  3b  27  
+
+Decrypted string = ---ans	Hex = 2d  2d  2d  61  6e  73  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:53:40
+
+Original string =  ------	Hex = 2d  2d  2d  2d  2d  2d  
+
+Encrypted string = >>>>>>	Hex = 3e  3e  3e  3e  3e  3e  
+
+Decrypted string = ------	Hex = 2d  2d  2d  2d  2d  2d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 11:54:49
+
+Original string =  ansean	Hex = 61  6e  73  65  61  6e  
+
+Encrypted string = Ô;'Ô;	Hex = ef  3b  27  1f  ef  3b  
+
+Decrypted string = ansean	Hex = 61  6e  73  65  61  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 12:06:28
+
+Original string =  	Hex = 
+
+Encrypted string = 	Hex = 
+
+Decrypted string = 	Hex = 
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 12:12:04
+
+Original string =  	Hex = 
+
+Encrypted string = 	Hex = 
+
+Decrypted string = 	Hex = 
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 12:14:56
+
+Original string =  	Hex = 
+
+Encrypted string = 	Hex = 
+
+Decrypted string = 	Hex = 
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 12:16:14
+
+Original string =  	Hex = 
+
+Encrypted string = 	Hex = 
+
+Decrypted string = 	Hex = 
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 25/03/2019  Time: 12:16:48
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 10/04/2019  Time: 16:50:18
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = õûóóî	Hex = 9b  9e  97  97  94  
+
+Decrypted string = FGGá	Hex = 46  5  47  47  87  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 10/04/2019  Time: 16:52:07
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = õûóóî	Hex = 9b  9e  97  97  94  
+
+Decrypted string = FGGá	Hex = 46  5  47  47  87  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 10/04/2019  Time: 16:57:15
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7	Hex = 13  1f  43  43  37  
+
+Decrypted string = hello	Hex = 68  65  6c  6c  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 15/04/2019  Time: 13:43:47
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 15/04/2019  Time: 13:52:06
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 15/04/2019  Time: 14:26:57
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 00:59:05
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = úúúú	Hex = 9c  9c  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 00:59:28
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = úúúú	Hex = 9c  9c  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 00:59:55
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = úúúú	Hex = 9c  9c  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 01:00:13
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = úúúú	Hex = 9c  9c  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 01:00:23
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = úúúú	Hex = 9c  9c  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 01:04:51
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = úúúú	Hex = 9c  9c  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 01:09:07
+
+Original string =  sdf	Hex = 73  64  66  
+
+Encrypted string = 	Hex = 0  0  0  
+
+Decrypted string = úúú	Hex = 9c  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 01:20:20
+
+Original string =  ben	Hex = 62  65  6e  
+
+Encrypted string = Î	Hex = eb  0  0  
+
+Decrypted string = búú	Hex = 62  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 01:21:05
+
+Original string =  ben	Hex = 62  65  6e  
+
+Encrypted string = Î;q	Hex = eb  1f  3b  
+
+Decrypted string = ben	Hex = 62  65  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 01:21:19
+
+Original string =  hellpo	Hex = 68  65  6c  6c  70  6f  
+
+Encrypted string = CC37q	Hex = 13  1f  43  43  33  37  
+
+Decrypted string = hellpo	Hex = 68  65  6c  6c  70  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 18/04/2019  Time: 01:21:25
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'q	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/04/2019  Time: 23:08:07
+
+Original string =  anseee	Hex = 61  6e  73  65  65  65  
+
+Encrypted string = Ô;'q	Hex = ef  3b  27  1f  1f  1f  
+
+Decrypted string = anseee	Hex = 61  6e  73  65  65  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/04/2019  Time: 23:34:28
+
+Original string =  0	Hex = 61  6e  73  65  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = úúúú	Hex = 9c  9c  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/04/2019  Time: 23:37:23
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = úúúú	Hex = 9c  9c  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/04/2019  Time: 23:51:42
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = úúúú	Hex = 9c  9c  9c  9c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 19/04/2019  Time: 23:59:41
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = ;'q	Hex = 3b  27  1f  71  
+
+Decrypted string = nse	Hex = 6e  73  65  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:00:41
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = qqqq	Hex = 71  71  71  71  
+
+Decrypted string = 	Hex = 0  0  0  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:01:15
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = qqqq	Hex = 71  71  71  71  
+
+Decrypted string = 	Hex = 0  0  0  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:01:54
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7¶	Hex = 1f  43  43  37  a6  
+
+Decrypted string = ello	Hex = 65  6c  6c  6f  13  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:02:39
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'q	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:02:51
+
+Original string =  joke	Hex = 6a  6f  6b  65  
+
+Encrypted string = 7q	Hex = b  37  7  1f  
+
+Decrypted string = joke	Hex = 6a  6f  6b  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:02:58
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'q	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:15:55
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = [G?q	Hex = f  5b  47  3f  
+
+Decrypted string = iv{m	Hex = 69  76  7b  6d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:16:42
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = [G?q	Hex = f  5b  47  3f  
+
+Decrypted string = iv{m	Hex = 69  76  7b  6d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:17:00
+
+Original string =  anse	Hex = 61  6e  73  65  
+
+Encrypted string = Ô;'q	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:17:11
+
+Original string =  AnSe	Hex = 41  6e  53  65  
+
+Encrypted string = n;ßq	Hex = 6e  3b  a7  1f  
+
+Decrypted string = AnSe	Hex = 41  6e  53  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:17:42
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = CC7q	Hex = 13  1f  43  43  37  
+
+Decrypted string = hello	Hex = 68  65  6c  6c  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:20:12
+
+Original string =  ANSE	Hex = 41  4e  53  45  
+
+Encrypted string = nªßüq	Hex = 6e  bb  a7  9f  
+
+Decrypted string = ANSE	Hex = 41  4e  53  45  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:21:33
+
+Original string =  ANSE	Hex = 41  4e  53  45  
+
+Encrypted string = n;'q	Hex = 6e  3b  27  1f  
+
+Decrypted string = Anse	Hex = 41  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:21:48
+
+Original string =  HELLO	Hex = 48  45  4c  4c  4f  
+
+Encrypted string = CC7q	Hex = 13  1f  43  43  37  
+
+Decrypted string = hello	Hex = 68  65  6c  6c  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:21:59
+
+Original string =  ABCDEF	Hex = 41  42  43  44  45  46  
+
+Encrypted string = nÎÁ#;	Hex = 6e  eb  e7  23  1f  1b  
+
+Decrypted string = Abcdef	Hex = 41  62  63  64  65  66  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:22:08
+
+Original string =  GHIJKL	Hex = 47  48  49  4a  4b  4c  
+
+Encrypted string = C÷	Hex = 17  13  f  b  7  43  
+
+Decrypted string = ghijkl	Hex = 67  68  69  6a  6b  6c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:22:20
+
+Original string =  MNOPQR	Hex = 4d  4e  4f  50  51  52  
+
+Encrypted string = ?;73/+v	Hex = 3f  3b  37  33  2f  2b  
+
+Decrypted string = mnopqr	Hex = 6d  6e  6f  70  71  72  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:22:31
+
+Original string =  STUVWX	Hex = 53  54  55  56  57  58  
+
+Encrypted string = 'c_[WS	Hex = 27  63  5f  5b  57  53  
+
+Decrypted string = stuvwx	Hex = 73  74  75  76  77  78  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:22:41
+
+Original string =  YZ	Hex = 59  5a  
+
+Encrypted string = OÀq	Hex = 4f  cb  
+
+Decrypted string = yZ	Hex = 79  5a  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:23:02
+
+Original string =  ANSE	Hex = 41  4e  53  45  
+
+Encrypted string = Ô;'q	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:23:10
+
+Original string =  KMDSA	Hex = 4b  4d  44  53  41  
+
+Encrypted string = ?#'Ôq	Hex = 7  3f  23  27  ef  
+
+Decrypted string = kmdsa	Hex = 6b  6d  64  73  61  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:23:17
+
+Original string =  ZANWQD	Hex = 5a  41  4e  57  51  44  
+
+Encrypted string = KÔ;W/#	Hex = 4b  ef  3b  57  2f  23  
+
+Decrypted string = zanwqd	Hex = 7a  61  6e  77  71  64  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:37:34
+
+Original string =  ANSE	Hex = 41  4e  53  45  
+
+Encrypted string = Ô;'q	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:42:48
+
+Original string =  MELLY	Hex = 4d  45  4c  4c  59  
+
+Encrypted string = ?CCOq	Hex = 3f  1f  43  43  4f  
+
+Decrypted string = melly	Hex = 6d  65  6c  6c  79  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 00:54:02
+
+Original string =  ANSE	Hex = 41  4e  53  45  
+
+Encrypted string = Ô;'q	Hex = ef  3b  27  1f  
+
+Decrypted string = anse	Hex = 61  6e  73  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 23:38:14
+
+Original string =  587	Hex = 35  38  37  
+
+Encrypted string = ^RVq	Hex = 5e  52  56  
+
+Decrypted string = 587	Hex = 35  38  37  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 20/04/2019  Time: 23:38:33
+
+Original string =  SteWie	Hex = 53  74  65  57  69  65  
+
+Encrypted string = 'cW	Hex = 27  63  1f  57  f  1f  
+
+Decrypted string = stewie	Hex = 73  74  65  77  69  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 29/04/2019  Time: 13:44:54
+
+Original string =  arya	Hex = 61  72  79  61  
+
+Encrypted string = Ô+OÔq	Hex = ef  2b  4f  ef  
+
+Decrypted string = arya	Hex = 61  72  79  61  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Anse Rehman) Encryption key = 'X'
+Date: 28/02/2020  Time: 18:45:11
+
+Original string =  andrei	Hex = 61  6e  64  72  65  69  
+
+Encrypted string = Ô;#+5	Hex = ef  3b  23  2b  1f  f  
+
+Decrypted string = andrei	Hex = 61  6e  64  72  65  69  
+
+-------------------------------------------------------------
